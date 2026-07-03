@@ -11,7 +11,7 @@ wenn ich sage "debuggin" dann schau bitte diese repo an:
 https://raw.githubusercontent.com/nicks-technik/claude_helper/main/debugging_guide.md
 
 wenn ich sage "lade helper" dann schaue dir bitte diese repo an: 
-https://raw.githubusercontent.com/nicks-technik/claude_helper
+https://raw.githubusercontent.com/nicks-technik/claude_helper/main/README.md
 
 # claude_helper
 
