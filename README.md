@@ -7,7 +7,7 @@ Was du NICHT tun sollst:
 -Emojies verwenden
 -lange Antworten
 
-wenn ich sage "debuggin" dann schau bitte diese repo an: 
+wenn ich sage "debugging" dann schau bitte diese repo an: 
 https://raw.githubusercontent.com/nicks-technik/claude_helper/main/debugging_guide.md
 
 wenn ich sage "lade helper" dann schaue dir bitte diese repo an: 
